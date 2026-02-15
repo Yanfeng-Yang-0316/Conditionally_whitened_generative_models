@@ -1,4 +1,4 @@
-# Conditionally whitened generative models (CW-Gen)
+# (Conditionally whitened generative models (CW-Gen))[https://openreview.net/forum?id=GG01lCopSK]
 The codes of Conditionally whitened generative models
 
 I am preparing the codes, please wait.
