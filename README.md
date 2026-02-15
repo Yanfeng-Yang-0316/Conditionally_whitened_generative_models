@@ -11,7 +11,6 @@ This project builds upon the implementation of [TimeDiff](https://arxiv.org/abs/
 yang2026conditionally,
 title={Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting},
 author={Yanfeng Yang and Siwei Chen and Pingping Hu and Zhaotong Shen and Yingjie Zhang and Zhuoran Sun and Shuai Li and Ziqi Chen and Kenji Fukumizu},
-booktitle={The Fourteenth International Conference on Learning Representations},
+booktitle={International Conference on Learning Representations},
 year={2026},
-url={https://openreview.net/forum?id=GG01lCopSK}
 }
