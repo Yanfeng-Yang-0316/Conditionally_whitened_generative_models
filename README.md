@@ -10,7 +10,7 @@ This project builds upon the implementation of [TimeDiff](https://arxiv.org/abs/
 
 
 ## Reference
-If you use this code in your research, please cite:
+If you find the underlining method is helpful to your research, please cite:
 ```bibtex
 @inproceedings{
 yang_2026_cwgen,
