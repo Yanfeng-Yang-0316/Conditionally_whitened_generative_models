@@ -11,7 +11,7 @@ This project builds upon the implementation of [TimeDiff](https://arxiv.org/abs/
 If you use this code in your research, please cite:
 ```bibtex
 @inproceedings{
-yang2026conditionally,
+yang_2026_cwgen,
 title={Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting},
 author={Yanfeng Yang and Siwei Chen and Pingping Hu and Zhaotong Shen and Yingjie Zhang and Zhuoran Sun and Shuai Li and Ziqi Chen and Kenji Fukumizu},
 booktitle={International Conference on Learning Representations},
