@@ -1,6 +1,6 @@
 # [Conditionally whitened generative models (CW-Gen)](https://openreview.net/forum?id=GG01lCopSK)
 
-The codes of Conditionally whitened generative models, accepted by ICLR 2026. CW-Gen is a framework that enhances probabilistic time series forecasting by incorporating conditional mean and covariance information into generative models such as diffusion and flow matching. More details are available in our paper: https://arxiv.org/abs/2509.20928. :contentReference[oaicite:2]{index=2}
+The codes of Conditionally whitened generative models, accepted by ICLR 2026. CW-Gen is a framework that enhances probabilistic time series forecasting by incorporating conditional mean and covariance information into generative models such as diffusion and flow matching. 
 
 
 ## Acknowledgement
@@ -8,6 +8,7 @@ This project builds upon the implementation of [TimeDiff](https://arxiv.org/abs/
 
 
 ## Reference
+If you use this code in your research, please cite:
 ```bibtex
 @inproceedings{
 yang2026conditionally,
