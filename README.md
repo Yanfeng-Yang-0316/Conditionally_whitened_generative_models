@@ -10,9 +10,9 @@ We adopt the [env of NsDiff](https://github.com/wwy155/NsDiff/blob/main/requirem
 ## Usage
 First use 
 ```bash
-dataset_cw = ETTh1(root='ts_datasets')
+dataset = ETTh1(root='ts_datasets')
 ```
-to download the dataset. Then, run the codes, e.g.:
+to download the datasets. Then, run the codes, e.g.:
 ```bash
 python cw_diffusion_ts_e2e.py
 ```
