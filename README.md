@@ -7,6 +7,11 @@ We first established a theorem to show when incorporating conditional mean and c
 ## Environment
 We adopt the [env of NsDiff](https://github.com/wwy155/NsDiff/blob/main/requirements.txt). There are some additional packages, and you can just pip install them.
 
+## Usage
+```bash
+python cw_diffusion_ts_e2e.py
+```
+
 ## Acknowledgement
 This project builds upon the implementation of [TimeDiff](https://arxiv.org/abs/2306.05043), [SSSD](https://github.com/AI4HealthUOL/SSSD), [Diffusion-TS](https://github.com/Y-debug-sys/Diffusion-TS), [TMDM](https://github.com/LiYuxin321/TMDM), [NsDiff](https://github.com/wwy155/NsDiff), and [FlowTS](https://github.com/UNITES-Lab/FlowTS). We sincerely thank the original authors for making their code publicly available.
 
