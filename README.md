@@ -11,7 +11,8 @@ We adopt the [env of NsDiff](https://github.com/wwy155/NsDiff/blob/main/requirem
 First use 
 ```bash
 dataset_cw = ETTh1(root='ts_datasets')
-``` to download the dataset. Then,
+```
+to download the dataset. Then,
 ```bash
 python cw_diffusion_ts_e2e.py
 ```
