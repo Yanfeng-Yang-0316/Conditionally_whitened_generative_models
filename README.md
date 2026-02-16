@@ -12,7 +12,7 @@ First use
 ```bash
 dataset_cw = ETTh1(root='ts_datasets')
 ```
-to download the dataset. Then,
+to download the dataset. Then, run the codes, e.g.:
 ```bash
 python cw_diffusion_ts_e2e.py
 ```
