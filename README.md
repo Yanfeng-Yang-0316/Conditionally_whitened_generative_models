@@ -5,7 +5,7 @@ This repository contains the codes of *Conditionally whitened generative models 
 We first established a theorem to show when incorporating conditional mean and covariance is beneficial. Then, we proposed a Joint Mean-Covariance Estimator (JMCE) to estimate the conditional mean & cov. Finally, we propose a easy and general way to incorporate conditional mean & cov into diffusion model and flow matching.
 
 ## Environment
-We adopts the [env of NsDiff](https://github.com/wwy155/NsDiff/blob/main/requirements.txt). There are some additional packages, and you can just pip install them.
+We adopt the [env of NsDiff](https://github.com/wwy155/NsDiff/blob/main/requirements.txt). There are some additional packages, and you can just pip install them.
 
 ## Acknowledgement
 This project builds upon the implementation of [TimeDiff](https://arxiv.org/abs/2306.05043), [SSSD](https://github.com/AI4HealthUOL/SSSD), [Diffusion-TS](https://github.com/Y-debug-sys/Diffusion-TS), [TMDM](https://github.com/LiYuxin321/TMDM), [NsDiff](https://github.com/wwy155/NsDiff), and [FlowTS](https://github.com/UNITES-Lab/FlowTS). We sincerely thank the original authors for making their code publicly available.
