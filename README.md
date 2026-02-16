@@ -8,6 +8,7 @@ We first established a theorem to show when incorporating conditional mean and c
 We adopt the [env of NsDiff](https://github.com/wwy155/NsDiff/blob/main/requirements.txt). There are some additional packages, and you can just pip install them.
 
 ## Usage
+E.g.:
 ```bash
 python cw_diffusion_ts_e2e.py
 ```
