@@ -10,6 +10,7 @@ We adopt the [env of NsDiff](https://github.com/wwy155/NsDiff/blob/main/requirem
 ## Usage
 First use 
 ```bash
+from torch_timeseries.dataset import *
 dataset = ETTh1(root='ts_datasets')
 ```
 to download the datasets. Then, run the codes, e.g.:
