@@ -17,7 +17,7 @@ to download the datasets. Then, run the codes, e.g.:
 ```bash
 python cw_diffusion_ts_e2e.py
 ```
-I wrote the code really in a hurry (there are for loops in every scripts 🤣), and I use LLM to translated comments. So, there might be some minor, simple bugs (like nonexistent path etc). These bugs are easy to fix, and don't effect the results.
+I wrote the code really in a hurry (there are for loops at the beginning of all scripts 🤣), and I use LLM to translated comments. So, there might be some minor, simple bugs (like nonexistent path etc). These bugs are easy to fix, and don't effect the results.
 
 ## Acknowledgement
 This project builds upon the implementation of [TimeDiff](https://arxiv.org/abs/2306.05043), [SSSD](https://github.com/AI4HealthUOL/SSSD), [Diffusion-TS](https://github.com/Y-debug-sys/Diffusion-TS), [TMDM](https://github.com/LiYuxin321/TMDM), [NsDiff](https://github.com/wwy155/NsDiff), and [FlowTS](https://github.com/UNITES-Lab/FlowTS). We specially thank the original authors of NsDiff.
